@@ -19,6 +19,7 @@ In the Market, We can buy some Cryptocurrency coins. i add some Bitcoin,Ethereum
 ## **Portfolio Page**
 <img width="1893" height="903" alt="Screenshot 2025-12-12 202257" src="https://github.com/user-attachments/assets/15d52db9-6f14-4749-9237-82d4fb318c21" />
 And the last one is portfolio page that can overview your stats. This page is used for your funding evaluation.
+
 ### **Notes**
 
 i added some blockchain features on the Circular transaction.
